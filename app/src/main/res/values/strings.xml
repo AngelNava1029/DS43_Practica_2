@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Practica2</string>
+
+    <string-array name="convert_options">
+        <item>3 Caras</item>
+        <item>6 Caras</item>
+        <item>9 Caras</item>
+        <item>12 Caras</item>
+        <item>20 Caras</item>
+    </string-array>
+</resources>
